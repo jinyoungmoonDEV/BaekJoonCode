@@ -18,5 +18,5 @@ public class num10950 {
 		}
 		System.out.println(sb);
 	}
-
+	
 }
