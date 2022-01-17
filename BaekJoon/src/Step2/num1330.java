@@ -10,7 +10,7 @@ public class num1330 {
 		StringTokenizer st = new StringTokenizer(br.readLine()," ");
 		int A = Integer.parseInt(st.nextToken());
 		int B = Integer.parseInt(st.nextToken());
-		System.out.println((A>B) ? ">" : ((A<B) ? "<" : "=="));
+		System.out.println((A>B) ? ">" : ((A<B) ? "<" : "==")); //삼항연산자
 	}
 
 }
